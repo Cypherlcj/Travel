@@ -1,8 +1,7 @@
 <template>
   <div>
     <home-header></home-header>
-    <home-swiper></home-swiper>
-     
+    <hoem-swiper></hoem-swiper>
   </div>
 
 </template>
